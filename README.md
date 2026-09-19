@@ -3,7 +3,7 @@
 
 Yibo Hu · Illinois Institute of Technology
 
-📄 Paper: *arXiv link forthcoming*
+📄 Paper: [*arXiv:2609.20211*](https://arxiv.org/abs/2609.20211)
 
 ## Key finding
 
@@ -49,7 +49,7 @@ released here upon publication. In the meantime, it is available from the author
 @article{hu2026silence,
   title  = {Silence Is Endorsement: Verification-Status Laundering in LLM Agent Pipelines},
   author = {Hu, Yibo},
+  journal= {arXiv preprint arXiv:2609.20211},
   year   = {2026},
-  note   = {arXiv preprint forthcoming}
 }
 ```
